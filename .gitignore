@@ -49,3 +49,6 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+~$ADS-B Yagi-Uda PVC Mount.SLDASM
+~$ADS-B Yagi-Uda PVC Mount.SLDPRT
+~$ADS-B Yagi-Uda.SLDPRT
