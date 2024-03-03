@@ -16,8 +16,8 @@ Boom Diameter :  10  mm \
 Boom Length   :  205  mm \
 d/lambda      :  0.018    ( min.: 0.002 , max.: 0.01 ) \
 D/lambda      :  0.036    ( min.: 0.01 , max.: 0.05 ) \
-Elements      :  5 \
-Gain          :  7.99 dBd (approx.) \
+Elements      :  6 \
+Gain          :  9.01 dBd (approx.) \
 Director & elements are isolated. 
 
 ---
